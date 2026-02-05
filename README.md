@@ -4,4 +4,5 @@
 - 💪 I've been into structured fitness for years.
 - 😼 I have a British Shorthair. 
 - 🤩 fun fact: I came very close to becoming a game designer.
+  ![taobao](https://github.com/user-attachments/assets/aaef06d4-6dc7-4521-80e2-c0a8594edc28)
 -->
