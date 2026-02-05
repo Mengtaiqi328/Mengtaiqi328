@@ -5,3 +5,5 @@
 - 😼 I have a British Shorthair. 
 - 🤩 fun fact: I came very close to becoming a game designer.
 - 🎶 Love Before the Century — *Jay Chou | Fantasy (2001)*
+## 技术栈 🎯
+MySQL + Redis + ES +  hotkey +  Nacos +  Sentinel +  Sa-Token +  RabbitMQ 
